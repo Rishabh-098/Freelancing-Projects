@@ -1,11 +1,14 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python Expert">
-  <img src="https://img.shields.io/badge/Web%20Scraping-Pro-FF6F61?logo=webcomponents.org&logoColor=white" alt="Web Scraping Pro">
-  <img src="https://img.shields.io/badge/API%20Integration-Pro-1ABC9C?logo=internet-explorer&logoColor=white" alt="API Integration Pro">
-  <img src="https://img.shields.io/badge/SQL%20Master-4682B4?logo=sql&logoColor=white" alt="SQL Master">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pro-F15B2A?logo=anaconda&logoColor=white" alt="Data Analysis Pro">
-  <img src="https://img.shields.io/badge/Excel%20Wizard-1F4068?logo=microsoft-excel&logoColor=white" alt="Excel Wizard">
+<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python Expert" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #3776AB;">
+  <img src="https://img.shields.io/badge/Web%20Scraping-Pro-FF6F61?logo=webcomponents.org&logoColor=white" alt="Web Scraping Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #FF6F61;">
+  <img src="https://img.shields.io/badge/API%20Integration-Pro-1ABC9C?logo=internet-explorer&logoColor=white" alt="API Integration Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #1ABC9C;">
+  <img src="https://img.shields.io/badge/SQL%20Master-4682B4?logo=sql&logoColor=white" alt="SQL Master" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #4682B4;">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pro-F15B2A?logo=anaconda&logoColor=white" alt="Data Analysis Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #F15B2A;">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=power-bi&logoColor=white" alt="Power BI Advanced" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #F2C811;">
+  <img src="https://img.shields.io/badge/Excel%20Wizard-1F4068?logo=microsoft-excel&logoColor=white" alt="Excel Wizard" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #1F4068;">
 </div>
+
+
 
 # Rado Watch Data Scraper
 
