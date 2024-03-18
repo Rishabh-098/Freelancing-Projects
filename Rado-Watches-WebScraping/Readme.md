@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-Pro-F15B2A?logo=anaconda&logoColor=white" alt="Data Analysis Pro">
   <img src="https://img.shields.io/badge/Excel%20Wizard-1F4068?logo=microsoft-excel&logoColor=white" alt="Excel Wizard">
 </div>
+
 # Rado Watch Data Scraper
 
 This project is a Python-based web scraper designed to extract information about Rado watches from a specific website. It utilizes Selenium for web automation and BeautifulSoup for HTML parsing. 🌐⌚️
