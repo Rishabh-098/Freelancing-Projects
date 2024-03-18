@@ -11,6 +11,8 @@
 
 This project is a Python-based web scraper designed to extract information about Rado watches from a specific website. It utilizes Selenium for web automation and BeautifulSoup for HTML parsing. 🌐⌚️
 
+![Screenshot 2024-03-18 135905](https://github.com/Rishabh-098/Freelancing-Projects/assets/121353743/bd1f38c9-5d26-4926-8910-3bc8352db10c)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
