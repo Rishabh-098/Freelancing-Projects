@@ -48,6 +48,10 @@ The Quality Performance Index dashboard provides an overview of the project's qu
   
 - **Root Cause Analysis:** Provides insights into the root causes of quality issues, aiding in formulating targeted improvement strategies.
 
+![Screenshot 2024-03-18 150405](https://github.com/Rishabh-098/Freelancing-Projects/assets/121353743/8bd7d079-3354-464e-939c-c04dd00c3732)
+
+  
+
 ## Data Sources
 
 The dashboard utilizes Excel data provided by the company project. The data includes information such as defect types, severity levels, project milestones, and other relevant quality metrics.
