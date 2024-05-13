@@ -18,3 +18,35 @@ This project automates the extraction of video data from a specified YouTube cha
 
 ## 📦 Installation Instructions
 Ensure you have Python installed, then clone the repository and install dependencies:
+
+  - git clone https://github.com/yourusername/youtube-video-scraper.git
+  - cd youtube-video-scraper
+  - pip install -r requirements.txt
+
+
+## 🚀 Usage Instructions
+### Configuring API Access
+1. **Obtain API keys** 🔑 for both YouTube and Google Sheets APIs from the Google Developer Console.
+2. **Securely store** these keys in environment variables or a configuration file not tracked by Git.
+
+### Running the Script
+Execute the script to scrape data and load it into Google Sheets:
+```python```
+
+## Script Conversion to JavaScript
+Convert the Python script to JavaScript using any available Python-to-JavaScript transpiler or manually adapt the code. Ensure the JavaScript is compatible with Google Apps Script standards.
+
+## Deployment on Google Apps Script
+1. **Create a new script** in Google Apps Script with the converted JavaScript code.
+2. **Set up triggers** in the Google Apps Script environment to run the script daily.
+
+## 👥 Contributing
+To contribute, please fork the repository, create a feature branch, and submit a pull request with a clear list of what you've done.
+
+## 🎉 Credits
+Developed using powerful APIs provided by Google. Special thanks to the open-source community for continuous contributions.
+
+## 📬 Contact
+For support or contributions, please contact Rishabh at rishabhsengar098@gmail.com.
+
+
