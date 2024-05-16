@@ -80,7 +80,7 @@ function getChannelId(customUrl, apiKey) {
         return videoDate === startDate;
       });
   
-      var spreadsheetId = '1u_qDgpocVPNituC6lctBXQXxjtcFFqrOn-GdMkCGl-Q';
+      var spreadsheetId = '------------------------------------';
       var spreadsheet = SpreadsheetApp.openById(spreadsheetId);
       var sheet = spreadsheet.getSheetByName(sheetName); // Get the specific sheet by name
   
